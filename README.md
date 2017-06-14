@@ -1,44 +1,31 @@
 # AIHE: RNA:n sekvensointi ilman referenssigenomia
 
-## TARKASTUSLAUSUNTO
+## Tarkastuslausunto
 
-Tehtäväalue
+###Tehtäväalue
 
 Geenin ilmeneminen solussa on monivaiheinen prosessi. Ensin DNA-molekyylistä tuotetaan RNA-molekyyli, josta
-
 sitten tuotetaan proteiineja. RNA-sekvensoinnissa pyritään selvittämään, mitä RNA-molekyylejä solussa on ja
-
 kuinka paljon kutakin RNA-molekyyliä on. RNA-sekvensointi tuottaa lyhyitä fragmentteja, joista laskennallisesti
-
 rekonstruoidaan alkuperäinen RNA-molekyyli ja päätellään kunkin RNA-molekyylin pitoisuus. Työssä on keskitytty
-
 RNA-sekvenssien rekonstruktioon ilman referenssigenomia.
 
-Kokonaisuuden hallinta
-
+###Kokonaisuuden hallinta
 Työ on onnistunut kokonaisuus, jossa ensin esitellään aiheen biologinen tausta sekä kokeelliseen
-
 tutkimusmenetelmään liittyvät seikat. Tämän jälkeen on esitetty de Bruijnin verkkoon perustuva
-
 rekonstruktiomenetelmä ja esimerkki tähän tekniikkaan perustuvasta työkalusta. Lopuksi esitellään menetelmiä
-
 RNA-molekyylien pitoisuuksien selvittämiseen. Työ kattaa laajan aihealueen, josta on onnistuneesti esitetty
-
 olennaiset RNA-sekvensoinnin laskennalliset työvaiheet.
 
-Esitystekniikka
-
+###Esitystekniikka
 Esitystapa on viimeistelty ja työtä on miellyttävä lukea. Kuvia ja esimerkkejä on käytetty johdonmukaisesti
-
 havainnollistamaan esitystä.
 
-Yleisvaikutelma
-
+###Yleisvaikutelma
 Satu Salekarin kandidaatintutkielma on erinomainen katsaus RNA-sekvensoinnin eri työvaiheisiin. Työssä on
-
 syvällisesti pohdittu eri vaiheisiin liittyviä virhelähteitä ja niiden vaikutuksia RNA-sekvensoinnin tuloksiin.
 
-Arvosana: 5
+###Arvosana: 5
 
 
 
